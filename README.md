@@ -5,3 +5,4 @@ Don't forget to subscribe my website, ["narendran.me"](https://narendran.me) for
 <p>This problem was asked by Google.<br>
 Given a string, return the first recurring character in it, or null if there is no recurring character.
 For example, given the string "acbbac", return "b". Given the string "abcdef", return null.</p>
+[![Run on Repl.it](https://repl.it/badge/github/naresh3599/js-coding-problems)](https://repl.it/github/naresh3599/js-coding-problems)
