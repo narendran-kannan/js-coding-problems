@@ -27,6 +27,8 @@ Given an integer list where each number represents the number of hops you can ma
 For example, [2, 0, 1, 0] returns True while [1, 1, 0, 1] returns False.</p>
 
 [Solution](https://github.com/naresh3599/js-coding-problems/blob/master/solutions/3.js)
+
+[Explanation](https://narendran.me/2020/09/14/javascript-coding-problem-3)
 <hr>
 
 
