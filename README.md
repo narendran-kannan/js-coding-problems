@@ -30,6 +30,20 @@ For example, [2, 0, 1, 0] returns True while [1, 1, 0, 1] returns False.</p>
 
 [Explanation](https://narendran.me/2020/09/14/javascript-coding-problem-3)
 <hr>
+<h4>Problem #4</h4>
+<p>This problem was asked by Facebook.
+<br>
+Given a 32-bit integer, return the number with its bits reversed.
+<br>
+For example, given the binary number 1111 0000 1111 0000 1111 0000 1111 0000, return 0000 1111 0000 1111 0000 1111 0000 1111.
+</p>
+
+[Solution](https://github.com/naresh3599/js-coding-problems/blob/master/solutions/3.js)
+
+[Explanation]
+(https://narendran.me/2020/09/15/javascript-coding-problem-4)
+<hr>
+
 
 
 
