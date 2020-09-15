@@ -40,8 +40,7 @@ For example, given the binary number 1111 0000 1111 0000 1111 0000 1111 0000, re
 
 [Solution](https://github.com/naresh3599/js-coding-problems/blob/master/solutions/3.js)
 
-[Explanation]
-(https://narendran.me/2020/09/15/javascript-coding-problem-4)
+[Explanation](https://narendran.me/2020/09/15/javascript-coding-problem-4)
 <hr>
 
 
